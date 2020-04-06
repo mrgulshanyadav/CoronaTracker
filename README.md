@@ -1,16 +1,9 @@
 # corona
 
-A new Flutter application.
+Coronavirus Tracker App in Flutter
 
-## Getting Started
+Screenshots of output
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Scr1](https://drive.google.com/open?id=1DAxclzvPcgF_CwVdn_WrMDY2RNjhXH-m)
+![Scr2](https://drive.google.com/open?id=1D8UppcZ6mozs80gNvYon6jSszazUgyCk)
+![Scr3](https://drive.google.com/open?id=1fBhXe8PkUwUvJ13Km0Zv3PYNM0nfoDZt)
