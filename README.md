@@ -1,4 +1,4 @@
-# corona
+# Coronavirus Tracker
 
 Coronavirus Tracker App in Flutter
 
