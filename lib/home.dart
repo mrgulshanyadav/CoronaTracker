@@ -2,7 +2,6 @@ import 'package:corona/global.dart';
 import 'package:corona/india.dart';
 import 'package:corona/total.dart';
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
 
 class Home extends StatefulWidget {
   @override

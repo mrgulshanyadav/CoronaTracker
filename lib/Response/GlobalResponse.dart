@@ -1,7 +1,3 @@
-// To parse this JSON data, do
-//
-//     final globalResponse = globalResponseFromJson(jsonString);
-
 import 'dart:convert';
 
 GlobalResponse globalResponseFromJson(String str) => GlobalResponse.fromJson(json.decode(str));

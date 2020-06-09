@@ -52,7 +52,7 @@ class _TotalState extends State<Total> {
                       child: Column(
                         children: <Widget>[
                           Container(alignment: Alignment.center, padding: EdgeInsets.all(5), child: Text('Overall', style: TextStyle(fontSize: 22, color: Colors.black, fontWeight: FontWeight.bold))),
-                          Divider(color: Colors.white,),
+                          Divider(),
                           Container(
                             padding: EdgeInsets.all(5),
                             child: Row(

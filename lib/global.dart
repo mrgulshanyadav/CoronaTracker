@@ -18,7 +18,7 @@ class _GlobalState extends State<Global> {
     return FutureBuilder(
       future: Future.wait([
         getGlobalStats(),
-        getTotalStats()
+//        getTotalStats()
       ]),
       builder: (context, snapshot){
 
